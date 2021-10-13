@@ -1,0 +1,29 @@
+p {
+  color: gray;
+}
+
+p::first-line {
+  color: black;
+}
+
+p::selection {
+  background: black;
+  color: white;
+}
+
+#unique-paragraph {
+  color: pink;
+  text-transform: uppercase;
+}
+
+.text-big {
+  font-size: 140%;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.text-red {
+  color: red;
+}

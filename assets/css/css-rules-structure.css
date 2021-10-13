@@ -1,0 +1,31 @@
+header {
+  background-color: bisque;
+  padding: 20px;
+}
+
+main {
+  background-color: silver;
+  padding: 20px;
+}
+
+article {
+  background-color: white;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+h2 {
+  color: brown;
+}
+
+header h2 {
+  color: orangered;
+}
+
+article:first-of-type h2 {
+  color: blue;
+}
+
+article:not(:first-of-type) h3 {
+  color: pink;
+}
