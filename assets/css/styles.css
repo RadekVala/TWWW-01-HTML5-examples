@@ -5,7 +5,25 @@ ol li {
 }
 
 /*
-input {
+form {
+  background-color: silver;
+  padding: 15px;
+}
+
+label,
+input,
+formgroup {
   display: block;
+  width: 50%;
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  float: left;
+  width: 20px;
+  margin: 0;
 }
 */
