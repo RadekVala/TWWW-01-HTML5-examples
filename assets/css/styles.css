@@ -1,3 +1,9 @@
+ul li {
+  color: crimson;
+  font-weight: bold;
+  font-size: 130%;
+}
+
 /*
 input {
   display: block;
