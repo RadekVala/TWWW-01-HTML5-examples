@@ -1,10 +1,13 @@
+ol li:first-child {
+  color: blue;
+}
+
 ol li {
   color: crimson;
   font-weight: bold;
   font-size: 130%;
 }
 
-/*
 form {
   background-color: silver;
   padding: 15px;
@@ -26,4 +29,3 @@ input[type="checkbox"] {
   width: 20px;
   margin: 0;
 }
-*/

@@ -7,7 +7,7 @@ p::first-line {
 }
 
 p::selection {
-  background: black;
+  background: red;
   color: white;
 }
 
